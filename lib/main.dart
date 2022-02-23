@@ -6,14 +6,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Material App',
+      title: 'carlos salas',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Material App Bar'),
+          title: Text('universidad catolica'),
         ),
         body: Center(
           child: Container(
-            child: Text('cs and cp'),
+            child: Text('cs and cp\nNow we can code'),
           ),
         ),
       ),
