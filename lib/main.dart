@@ -13,8 +13,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Container(
-
-            child: Text('tesis'),
+            child: Text('Carlos Salas - Carlos Peñaranda'),
 
           ),
         ),
